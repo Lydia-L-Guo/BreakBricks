@@ -3,6 +3,8 @@
 ## Overview
 This project is a brick-breaking game developed using Swift and UIKit. It features a paddle, a bouncing ball, and multiple levels of brick layouts.
 
+<img src="https://github.com/Lydia-L-Guo/BreakBricks/blob/main/gif/BrickBricks.gif" width="300">
+
 ## Features
 - A movable paddle controlled by touch gestures.
 - A bouncing ball with realistic physics interactions.
